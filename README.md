@@ -1,5 +1,10 @@
 # Unit 12: MySQL
 
+
+## Video Guide
+* Video walk through is in the Repo. [VIDEO](https://github.com/LazaroPerez0823/RustyTrombone/blob/master/Bamazon_1.mp4)
+
+
 ## Overview
 In this unit, we add the final layer to our stack: the database. While it is the last, it is by no means the least. Databases are the foundation of full-stack web applications. Although we began our journey on the client-side, it will be more useful from this point on to approach application development from the bottom up. When using our applications, what is most important to our users is being able to store and retrieve data. Once we determine how we will model that data, we can then set about determining the best way to deliver it to the front-end via our server-side API. 
 
@@ -43,5 +48,3 @@ You will be employer-competitive if you are able to:
 * [MySQL Workbench Documentation](http://dev.mysql.com/doc/workbench/en/)
 * [MySQL NPM Package](https://www.npmjs.com/package/mysql)
 
-## Video Guide
-* Video walk through is in the Repo
