@@ -42,3 +42,6 @@ You will be employer-competitive if you are able to:
 * [MySQL - W3 Schools](http://www.w3schools.com/sql/)
 * [MySQL Workbench Documentation](http://dev.mysql.com/doc/workbench/en/)
 * [MySQL NPM Package](https://www.npmjs.com/package/mysql)
+
+## Video Guide
+* Video walk through is in the Repo
